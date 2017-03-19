@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Sombra:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Sombra-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Sombra:war exploded" />
+    </root>
+  </artifact>
+</component>
