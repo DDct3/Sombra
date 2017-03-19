@@ -1,0 +1,44 @@
+body{
+    background: url("../img/123.jpg");
+    background-size: cover;
+}
+.name{
+    font-size: 50px;
+    font-style: oblique;
+    font-family: sans-serif;
+    color: white;
+    margin: 0 0 0 5%;
+}
+.picture{
+    width: 35%;
+    height: 400px;
+    background-color: gainsboro;
+    margin: 5%;
+    float: left;
+}
+.description{
+    float: left;
+    width: 40%;
+    margin: 5% 5% 5% 0;
+    color: white;
+    font-size: 20px;
+    float: left;
+}
+.price{
+    font-size: 40px;
+    font-style: oblique;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    margin: 5%;
+}
+.add_cart{
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+    font-family: sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    margin: 0 0 0 32%;
+    padding: 2%;
+}

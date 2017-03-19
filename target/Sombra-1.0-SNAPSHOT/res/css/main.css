@@ -1,0 +1,158 @@
+body{
+    background-color: #009980 ;
+    background-size: cover;
+    padding: 50px;
+}
+header{
+    height: 70px;
+    background-color: #FFFFFF;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 0px 0 0 100px;
+}
+h1{
+    color: #009980;
+    font-size: 45px;
+    margin: 1% 0 0 0;
+    font-family: cursive;
+    float: left;
+}
+form{
+    float: left;
+    margin: auto;
+}
+input{
+    margin: 25px 0 25px 25px;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px inset #009980;
+}
+.form{
+    height: 30px;
+    margin: auto;
+    border-radius: 5px;
+    border: 2px inset #009980;
+}
+.inup{
+    float: left;
+    width: 350px;
+    margin: 2.3% 0 0 4%;
+}
+a{
+    margin: 20px;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu{
+    width: 94.5%;
+    height: 1000px;
+    margin: 2% 0 0 0;
+    background: url("/res/img/it-market-lviv-2.png");
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    border-radius: 5px;
+    padding: 50px 30px 0 30px;
+    margin: 100px auto auto auto;
+}
+nav{
+    width: 95.7%;
+    background: white;
+    height: 50px;
+    border-radius: 5px;
+    padding: 0 0 0 50px;
+    border: 2px inset #009980;
+    margin: auto;
+}
+.item{
+    float: left;
+    margin: 15px 20px 0 20px;
+}
+h2{
+    font-family: cursive;
+    margin: 1% 0 0 41.75%;
+}
+.sqar{
+    background: white;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 20px 45px 0 45px;
+    border: 2px inset lightblue;
+}
+table{
+    border: 2px double lightblue;
+    margin: 0 0 0 35%;
+}
+td{
+    border: 1px double lightblue;
+    color: black;
+}
+.select{
+    float: right;
+    margin: 10px;
+}
+.commodity{
+    height: 140px;
+    width: 1000px;
+    border: #009980 double 3px;
+    border-radius: 5px;
+    margin: 10px;
+    float: left;
+    padding: 5px;
+}
+.id{
+    height: 140px;
+    width: 30px;
+    float: left;
+    margin: 0;
+}
+.name{
+    text-align: center;
+    height: 140px;
+    width: 80px;
+    float: left;
+    margin: 50px 0 0 25px;
+}
+.price{
+    height: 140px;
+    width: 50px;
+    float: left;
+    margin: 60px 0 0 90px;
+}
+.description{
+    height: 140px;
+    width: 300px;
+    overflow: auto;
+    float: left;
+    margin: 0 0 0 40px;
+}
+.img{
+    height: 140px;
+    width: 150px;
+    float: left;
+    margin: 10px;
+}
+.button{
+    text-align: center;
+    float: right;
+    height: 50px;
+    width: 100px;
+    margin: 45px 20px 0 0;
+}
+.figure{
+    height: 500px;
+}
+.authentication{
+    color: white;
+}
+.label{
+    float: left;
+    margin: 0 120px 0 120px;
+}
+.label_first{
+    float: left;
+    margin:  0 0 0 260px;
+}
